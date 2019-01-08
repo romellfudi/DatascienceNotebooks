@@ -3,7 +3,7 @@
 ### By Romell Domínguez
 [![](snapshot/icono.png#favico)](https://www.romellfudi.com/)
 
-Project structure for doing and sharing data science work.
+## Project structure for doing and sharing data science work.
 
 Allows to automatically generate Jupyter content (repo info, navigation bar, index) from a configuration file (`config.yml`) and Jupyter notebooks (`notebooks/*.ipynb`).
 
