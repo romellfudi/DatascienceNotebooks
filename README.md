@@ -29,7 +29,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/romellfudi/datascience-notebooks
+    cookiecutter  https://github.com/romellfudi/DatascienceNotebooks
 
 ##  Project Organization
 
