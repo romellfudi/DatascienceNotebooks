@@ -1,4 +1,7 @@
-# cookiecutter-jupyter-notebooks
+# DataScience Notebooks Structure using cookiecutter
+
+### By Romell Domínguez
+[![](snapshot/icono.png#favico)](https://www.romellfudi.com/)
 
 Project structure for doing and sharing data science work.
 
@@ -68,3 +71,10 @@ $ conda install cookiecutter
 
     pip install -r requirements.txt
 
+<style>
+img[src*='#favico'] { 
+    width:200px;
+    display: block;
+    margin: auto;
+}
+</style>
