@@ -1,0 +1,17 @@
+name: {{ cookiecutter.repo_name }}
+channels:
+- conda-forge
+dependencies:
+- python={{ cookiecutter.python_interpreter }}
+- nb_conda_kernels
+- pyyaml
+- flake8
+- pytest
+- pytest-cov
+# Some packages you're likly going to need
+- pandas
+- numpy
+- scikit-learn
+# Include pip based packages
+- pip:
+  - -e .

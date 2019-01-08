@@ -1,0 +1,11 @@
+repo_name: '{{cookiecutter.repo_name}}'
+repo_info: >
+  # Main title
+
+  ## Subtitle
+
+  Author infos
+
+  [![Binder](https://mybinder.org/badge.svg)](google.fr)
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](google.fr)
+  [![Nbviewer](https://raw.github.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://mybinder.org/badge.svg)](google.fr)
