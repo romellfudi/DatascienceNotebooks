@@ -1,4 +1,4 @@
-# DataScience Notebooks Structure using cookiecutter
+## DataScience Notebooks Structure using cookiecutter
 
 ### By Romell Domínguez
 [![](snapshot/icono.png#favico)](https://www.romellfudi.com/)
@@ -29,7 +29,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter  https://github.com/romellfudi/DatascienceNotebooks
+    cookiecutter  gh:romellfudi/DatascienceNotebooks
 
 ##  Project Organization
 
