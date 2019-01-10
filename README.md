@@ -1,7 +1,7 @@
 ## DataScience Notebooks Structure using cookiecutter
 
 [![Workspace](https://img.shields.io/badge/Jupyter-lab-orange.svg)](https://github.com/jupyterlab/jupyterlab)
-[![Language](https://img.shields.io/badge/python-3.6-blue.svg)](https://wiki.python.org/moin/Documentation)
+[![Language](https://img.shields.io/badge/python-2.7%20|%203.6-blue.svg)](https://wiki.python.org/moin/Documentation)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/romellfudi/DatascienceNotebooks/blob/master/LICENSE)
 
 ### By Romell Domínguez
@@ -15,7 +15,7 @@ Inspired by [cookiecutter-data-science](https://github.com/drivendata/cookiecutt
 
 ### Requirements to use the cookiecutter template:
 -----------
- - Python 2.7 or 3.5
+ - Python 2.7 or 3.6
  - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed with pip by or conda depending on how you manage your Python packages:
 
 ``` bash
