@@ -1,5 +1,9 @@
 ## DataScience Notebooks Structure using cookiecutter
 
+[![Workspace](https://img.shields.io/badge/Jupyter-lab-orange.svg)](https://github.com/jupyterlab/jupyterlab)
+[![Language](https://img.shields.io/badge/python-3.6-blue.svg)](https://wiki.python.org/moin/Documentation)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/romellfudi/DatascienceNotebooks/blob/master/LICENSE)
+
 ### By Romell Domínguez
 [![](snapshot/icono.png#favico)](https://www.romellfudi.com/)
 
@@ -70,6 +74,11 @@ $ conda install cookiecutter
 ------------
 
     pip install -r requirements.txt
+
+### License
+MIT. See the LICENSE file for the copyright notice.
+
+2019, January
 
 <style>
 img[src*='#favico'] { 
