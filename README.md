@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/romellfudi/DatascienceNotebooks/blob/master/LICENSE)
 
 ### By Romell Domínguez
-[![](snapshot/icono.png#favico)](https://www.romellfudi.com/)
+[![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico#favico)](https://www.romellfudi.com/)
 
 ## Project structure for doing and sharing data science work.
 
