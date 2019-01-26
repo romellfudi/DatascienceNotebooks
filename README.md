@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/romellfudi/DatascienceNotebooks/blob/master/LICENSE)
 
 ### By Romell Domínguez
-[![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico#favico)](https://www.romellfudi.com/)
+[![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico)](https://www.romellfudi.com/)
 
 ## Project structure for doing and sharing data science work.
 
@@ -79,11 +79,3 @@ $ conda install cookiecutter
 MIT. See the LICENSE file for the copyright notice.
 
 2019, January
-
-<style>
-img[src*='#favico'] { 
-    width:200px;
-    display: block;
-    margin: auto;
-}
-</style>
