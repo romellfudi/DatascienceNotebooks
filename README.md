@@ -1,3 +1,5 @@
+![Gemini_Generated_Image_q4b9hoq4b9hoq4b9](https://github.com/user-attachments/assets/428523f5-ded7-4cc9-8e75-440558335d60)
+
 ## DataScience Notebooks Structure using cookiecutter
 
 [![Workspace](https://img.shields.io/badge/Jupyter-lab-orange.svg)](https://github.com/jupyterlab/jupyterlab)
